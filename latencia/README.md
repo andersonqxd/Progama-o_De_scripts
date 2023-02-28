@@ -1,0 +1,2 @@
+Você vai desenvolver o script latencia.sh. Esse script vai receber como parâmetro o nome de um arquivo de texto, contendo um endereço IP por linha.
+O script deve usar o comando ping para enviar dez pacotes ICMP para cada endereço do arquivo, calculando o valor médio do tempo de resposta. Ao final, deve imprimir uma lista de IP ordenada do menor para o maior tempo médio de resposta, informando além do endereço, o tempo de resposta médio.

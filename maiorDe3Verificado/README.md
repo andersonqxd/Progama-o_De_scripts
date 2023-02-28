@@ -1,0 +1,1 @@
+Faça um script chamado maiorDe3Verificado.sh que receba três números como parâmetros e retorne o maior. Não pode utilizar o comando sort. Esse script tem que reclamar caso um dos parâmetros não seja número.
